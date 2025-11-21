@@ -10,8 +10,8 @@ I'm Hesam a fresh Front-end student who is trying to learn and improve in web sk
 
 ## Screenshots
 
-<img width="1920" height="875" alt="Image" src="https://github.com/user-attachments/assets/cdd6914e-8b3e-486a-81e9-309a205f7641" />
-
+<img width="1903" height="908" alt="Image" src="https://github.com/user-attachments/assets/bb8a0601-6653-46b9-9168-d8b6adaca51c" />
+<img width="1901" height="898" alt="Image" src="https://github.com/user-attachments/assets/a10e3cd9-7938-4d2c-ab5c-3a2271dcad47" />
 
 ## Demo
 
