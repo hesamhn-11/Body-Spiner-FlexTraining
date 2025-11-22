@@ -9,7 +9,7 @@ I'm Hesam Hassannejad a fresh Front-end student who is trying to learn and impro
 
 ## 💬Information
 
--   🌐[Demo Project](https://hesamhn-11.github.io/Body-Spiner-Flex-.training-/)
+-   🌐[Demo Project](https://hesamhn-11.github.io/Body-Spiner-FlexTraining/)
 -  💻Developed by Hesam Hassannejad
  -  🕒Date: 2025-11-21
  -  🔍Technologies Used - HTML , CSS 
